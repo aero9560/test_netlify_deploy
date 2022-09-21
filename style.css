@@ -1,0 +1,31 @@
+*{margin: 0;
+padding: 0;}
+.navbar{height: 100px;
+    background-color: lime;
+}
+h1{color: rgb(252, 0, 0);}
+p{color: black;}
+.container{
+    background-color: skyblue;
+    text-align: center ;
+
+}
+.box1{ 
+    display: inline-block;
+    width: 450px;
+    height: 400px;
+    background-color: tomato;
+    text-align: center;
+    margin: 200px;
+    margin-left: 350px;
+    
+}
+.box2{
+    display: inline-block;
+    width: 450px;
+    height: 400px;
+    background-color: tomato;
+    text-align: center;
+}
+
+
